@@ -1,7 +1,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&layout=compact&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
 
 <!---
 - 👋 Hi, I’m @ametisto26
