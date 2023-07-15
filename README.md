@@ -1,6 +1,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&layout=compact&theme=highcontrast)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
