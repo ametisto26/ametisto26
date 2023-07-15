@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&layout=compact&theme=highcontrast)
 
 <!---
 - 👋 Hi, I’m @ametisto26
