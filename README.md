@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&layout=compact&theme=highcontrast&hide=js,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=5&layout=compact&theme=highcontrast&hide=javascript,html)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
