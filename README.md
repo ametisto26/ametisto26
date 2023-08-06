@@ -5,7 +5,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=radical) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=shades_of_purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=radical) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=shades_of_purple) 
 
