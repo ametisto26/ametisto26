@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=shades_of_purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=radical) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=shades_of_purple) 
 
