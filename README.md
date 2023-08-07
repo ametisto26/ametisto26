@@ -13,7 +13,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 --->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ametisto26&theme=shades_of_purple&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ametisto26&theme=gotham&utcOffset=8) 
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
