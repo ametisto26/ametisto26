@@ -1,7 +1,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&theme=highcontrast&hide=css,html,javascript)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=chartreuse_dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=dark) 
 
