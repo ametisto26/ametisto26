@@ -9,11 +9,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=chartreuse_dark) 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 
 <!---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark) 
 --->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ametisto26&theme=gotham&utcOffset=8) 
