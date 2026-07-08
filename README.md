@@ -32,14 +32,16 @@
 ## 📚 Interests
 
 ![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
-![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
+![Complex Dynamics](https://img.shields.io/badge/Complex%20Dynamics-7B1FA2?style=for-the-badge)
 ![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
 ![Pseudodifferential Operators](https://img.shields.io/badge/Pseudodifferential%20Operators-11BB99?style=for-the-badge)
+![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
 
 ## 🌱 Currently Learning
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![Lean](https://img.shields.io/badge/Lean-003B57?style=for-the-badge&logo=lean&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
