@@ -9,8 +9,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=chartreuse_dark) 
 
-![](https://komarev.com/ghpvc/?username=Ametisto26&style=for-the-badge&color=blueviolet)
-
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 
@@ -44,6 +42,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+
+![](https://komarev.com/ghpvc/?username=Ametisto26&style=for-the-badge&color=blueviolet)
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
 
