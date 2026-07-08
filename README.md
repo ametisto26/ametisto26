@@ -9,6 +9,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=chartreuse_dark) 
 
+![](https://komarev.com/ghpvc/?username=Ametisto26&style=flat-square&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 
