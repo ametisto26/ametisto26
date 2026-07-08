@@ -35,9 +35,7 @@
 ![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
 ![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
 ![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
-![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-purple?style=for-the-badge)
-![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-teal?style=for-the-badge)
-![Pseudodifferential Operators](https://img.shields.io/badge/Pseudodifferential%20Operators-darkred?style=for-the-badge)
+![Pseudodifferential Operators](https://img.shields.io/badge/Pseudodifferential%20Operators-11FFBB?style=for-the-badge)
 
 ## 🌱 Currently Learning
 
