@@ -42,11 +42,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📚 Interests
-
-![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
-![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
-![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
