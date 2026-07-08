@@ -11,6 +11,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Ametisto26&style=flat-square&color=blueviolet)
 
+![](https://komarev.com/ghpvc/?username=Ametisto26&style=for-the-badge&color=blueviolet)
+
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 
