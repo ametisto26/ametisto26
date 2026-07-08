@@ -18,6 +18,35 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ametisto26&theme=gotham&utcOffset=8) 
 --->
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 🛠️ Tools
+
+![Linux](https://img.shields.io/badge/Linux%20(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Interests
+
+![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
+![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
+![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
+
+## 🌱 Currently Learning
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📚 Interests
+
+![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
+![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
+![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
