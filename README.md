@@ -48,9 +48,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-
-![](https://komarev.com/ghpvc/?username=Ametisto26&style=for-the-badge&color=blueviolet)
 <!---
+![](https://komarev.com/ghpvc/?username=Ametisto26&style=for-the-badge&color=blueviolet)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Ametisto26&count_private=true&layout=compact&show_icons=true&theme=dark)
 
 - 👋 Hi, I’m @ametisto26
