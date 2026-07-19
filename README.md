@@ -1,7 +1,10 @@
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&count_private=true&layout=compact&theme=highcontrast&hide=css,html)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark) 
 
 <!---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&count_private=true&layout=compact&theme=highcontrast&hide=css,html)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 --->
 
@@ -12,7 +15,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ametisto26&theme=shades_of_purple)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ametisto26&theme=gotham&utcOffset=8) 
 --->
