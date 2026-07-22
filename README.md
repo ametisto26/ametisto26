@@ -1,6 +1,23 @@
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=dark) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ametisto26&fontSize=58&fontColor=FFFFFF&animation=twinkling&desc=Welcome.&descSize=20&descAlignY=73&color=0:2E0249,20:6A0DAD,40:C77DFF,60:4CC9F0,80:4361EE,100:0B132B" />
+</p>
 
+
+<!---
+禍々しいアニメーションヘッダー
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=40&pause=1000&color=9E0000&center=true&vCenter=true&width=600&lines=Welcome+to+the+Gallows.;Enter+if+you+dare...;Ametisto26+is+waiting..." alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:4a0000,100:000000&height=220&section=header&text=Welcome%20to%20the%20Gallows.&fontSize=42&fontColor=ff2b2b&animation=twinkling&desc=Ametisto26%20%7C%20Enter%20if%20you%20dare...&descSize=18&descAlignY=75&descAlign=50" />
+</p>
+--->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ametisto26&theme=dark) 
 
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=chartreuse_dark) 
