@@ -28,31 +28,37 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&count_private=true&layout=compact&theme=highcontrast&hide=css,html)
 
 --->
+
 ## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ## 🛠️ Tools
 
-![Linux (WSL)](https://img.shields.io/badge/Linux%20(WSL)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-## 📚 Interests
+## 🔬 Research Interests
 
 ![Functional Analysis](https://img.shields.io/badge/Functional%20Analysis-6A1B9A?style=for-the-badge)
+![Operator Theory](https://img.shields.io/badge/Operator%20Theory-8E24AA?style=for-the-badge)
+![Pseudodifferential Operators](https://img.shields.io/badge/Pseudodifferential%20Operators-11BB99?style=for-the-badge)
 ![Complex Dynamics](https://img.shields.io/badge/Complex%20Dynamics-7B1FA2?style=for-the-badge)
 ![Fractals](https://img.shields.io/badge/Fractals-3949AB?style=for-the-badge)
-![Pseudodifferential Operators](https://img.shields.io/badge/Pseudodifferential%20Operators-11BB99?style=for-the-badge)
 ![Numerical Analysis](https://img.shields.io/badge/Numerical%20Analysis-00897B?style=for-the-badge)
 
 ## 🌱 Currently Learning
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Lean](https://img.shields.io/badge/Lean-003B57?style=for-the-badge&logo=lean&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
