@@ -3,6 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Ametisto26&fontSize=58&fontColor=FFFFFF&animation=twinkling&desc=Welcome.&descSize=20&descAlignY=73&color=0:2E0249,20:6A0DAD,40:C77DFF,60:4CC9F0,80:4361EE,100:0B132B" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&pause=2000&color=C77DFF&center=true&vCenter=true&width=1000&lines=%E5%AF%84%E3%82%8A%E9%81%93%EF%BC%8C%E8%84%87%E9%81%93%EF%BC%8C%E3%81%BE%E3%82%8F%E3%82%8A%E9%81%93%EF%BC%8C%E3%81%97%E3%81%8B%E3%81%97%E3%81%9D%E3%82%8C%E3%82%89%E3%82%82%E3%81%99%E3%81%B9%E3%81%A6%E9%81%93%EF%BC%8E;Every+detour+is+still+a+path."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 <!---
 禍々しいアニメーションヘッダー
