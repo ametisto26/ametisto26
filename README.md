@@ -34,17 +34,16 @@
 --->
 
 
+<!---
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ametisto26&theme=chartreuse_dark" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark" width="49%" />
 </p>
+--->
+
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&theme=dark&hide_border=true&hide=css,html" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.pythonanywhere.com/api/top-langs/?username=Ametisto26&langs_count=7&theme=dark" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&hide_border=true&hide=css,html" width="60%" />
 </p>
 
 <!---
