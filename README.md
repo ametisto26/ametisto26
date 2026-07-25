@@ -39,7 +39,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ametisto26&theme=chartreuse_dark" width="49%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&theme=chartreuse_dark&hide_border=true&hide=css,html" width="60%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?username=Ametisto26&theme=chartreuse_dark&limit=7" width="60%" />
+</p>
 
 <!---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ametisto26&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
