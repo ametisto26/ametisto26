@@ -40,11 +40,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&theme=chartreuse_dark&hide_border=true&hide=css,html" width="60%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ametisto26&langs_count=7&layout=compact&theme=dark&hide_border=true&hide=css,html" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-top-languages.vercel.app/api?username=Ametisto26&langs_count=7&theme=dark" width="60%" />
+  <img src="https://github-readme-stats.pythonanywhere.com/api/top-langs/?username=Ametisto26&langs_count=7&theme=dark" width="50%" />
 </p>
 
 <!---
