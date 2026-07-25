@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?username=Ametisto26&theme=chartreuse_dark&limit=7" width="60%" />
+  <img src="https://github-readme-top-languages.vercel.app/api?username=Ametisto26&langs_count=7&theme=dark" width="60%" />
 </p>
 
 <!---
